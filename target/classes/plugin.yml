@@ -1,0 +1,18 @@
+name: LastManStanding
+version: 1.0
+main: com.yourname.lms.LastManStanding
+api-version: 1.20
+commands:
+  starttournament:
+    description: Starts the PvP tournament
+    permission: lastmanstanding.admin
+  endtournament:
+    description: Ends the PvP tournament early
+    permission: lastmanstanding.admin
+  suddendeath:
+    description: Triggers sudden death manually
+    permission: lastmanstanding.admin
+permissions:
+  lastmanstanding.admin:
+    description: Allows tournament control
+    default: op

@@ -1,0 +1,7 @@
+com\yourname\lms\TournamentManager.class
+com\yourname\lms\ArenaGenerator.class
+com\yourname\lms\Commands\EndTournamentCommand.class
+com\yourname\lms\DeathListener.class
+com\yourname\lms\Commands\StartTournamentCommand.class
+com\yourname\lms\Commands\SuddenDeathCommand.class
+com\yourname\lms\LastManStanding.class
